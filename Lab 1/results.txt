@@ -1,0 +1,74 @@
+Executed on:
+Ubuntu 22.04.1 LTS 64-bit Gnome 42.4 Wayland
+Intel® Core™ i5-8250U CPU @ 1.60GHz × 8
+8GB DDR4 RAM
+
+
+Input Data Size: 10k
+Bubble Sort on Sorted Data: 0.000025
+Selection Sort on Sorted Data: 0.116684
+Insertion Sort on Sorted Data: 0.000038
+
+Bubble Sort on Reverse Data: 0.186026
+Selection Sort on Reverse Data: 0.113252
+Insertion Sort on Reverse Data: 0.129647
+
+Bubble Sort on Random Data: 0.241292
+Selection Sort on Random Data: 0.118269
+Insertion Sort on Random Data: 0.066688
+
+
+Input Data Size: 20k
+Bubble Sort on Sorted Data: 0.000049
+Selection Sort on Sorted Data: 0.460436
+Insertion Sort on Sorted Data: 0.000076
+
+Bubble Sort on Reverse Data: 0.736743
+Selection Sort on Reverse Data: 0.444022
+Insertion Sort on Reverse Data: 0.514053
+
+Bubble Sort on Random Data: 1.061397
+Selection Sort on Random Data: 0.461865
+Insertion Sort on Random Data: 0.258553
+
+
+Input Data Size: 30k
+Bubble Sort on Sorted Data: 0.000072
+Selection Sort on Sorted Data: 1.035070
+Insertion Sort on Sorted Data: 0.000113
+
+Bubble Sort on Reverse Data: 1.671892
+Selection Sort on Reverse Data: 0.995590
+Insertion Sort on Reverse Data: 1.146732
+
+Bubble Sort on Random Data: 2.483744
+Selection Sort on Random Data: 1.040748
+Insertion Sort on Random Data: 0.579383
+
+
+Input Data Size: 40k
+Bubble Sort on Sorted Data: 0.000096
+Selection Sort on Sorted Data: 1.838902
+Insertion Sort on Sorted Data: 0.000150
+
+Bubble Sort on Reverse Data: 2.942077
+Selection Sort on Reverse Data: 1.763995
+Insertion Sort on Reverse Data: 2.042417
+
+Bubble Sort on Random Data: 4.489721
+Selection Sort on Random Data: 1.840329
+Insertion Sort on Random Data: 1.029429
+
+
+Input Data Size: 50k
+Bubble Sort on Sorted Data: 0.000119
+Selection Sort on Sorted Data: 2.900709
+Insertion Sort on Sorted Data: 0.000187
+
+Bubble Sort on Reverse Data: 4.585441
+Selection Sort on Reverse Data: 2.758666
+Insertion Sort on Reverse Data: 3.199509
+
+Bubble Sort on Random Data: 7.114532
+Selection Sort on Random Data: 2.874849
+Insertion Sort on Random Data: 1.604756
